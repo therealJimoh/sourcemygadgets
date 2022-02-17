@@ -6,8 +6,8 @@ const Dashboard = () => {
   return (
     <>
       <X.DashboardContainer>
-        <X.DashboardWrapper>
           <Navbar />
+        <X.DashboardWrapper>
           <Sidebar />
         </X.DashboardWrapper>
       </X.DashboardContainer>

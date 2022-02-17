@@ -5,5 +5,4 @@ export const DashboardContainer = styled.div`
 `;
 
 export const DashboardWrapper = styled.div`
-
 `;
