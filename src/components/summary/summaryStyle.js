@@ -10,6 +10,7 @@ export const SummaryContainer = styled.div`
   border-radius: 5.40323px;
 `;
 
+
 export const SummaryWrapper = styled.div`
   display: flex;
   width: 100%;
